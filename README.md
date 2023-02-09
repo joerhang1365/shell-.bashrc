@@ -1,7 +1,7 @@
 # bashscript
 The bashscript I use for my terminal and a list of commands to remember
 
-#Some commands for linux terminal
+Some commands for linux terminal
 sudo - super user do 
  * can execute commands only root user can
  * sudo (command)
